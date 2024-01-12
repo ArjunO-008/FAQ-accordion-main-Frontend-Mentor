@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/faqaccordionmain-ksttZ9dun9)
 - Live Site URL: [Click here](https://arjuno-008.github.io/FAQ-accordion-main-Frontend-Mentor/)
 
 ### Built with
